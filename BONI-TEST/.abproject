@@ -1,0 +1,45 @@
+{
+  "ProjectName": "BONI-TEST",
+  "ProjectGuid": "a36def40-b1d7-4c9d-8372-1dbe11ef96d6",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.BONITEST",
+  "DisplayName": "BONI-TEST",
+  "Author": "",
+  "Description": "BONI-TEST",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{e2aedf5c-fec9-4746-b3f0-699654334165}",
+  "WP8ProductID": "{589a1621-a226-42c8-ac82-7c6f25a81d0a}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.BONITEST",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
